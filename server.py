@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 
 # Hardcoded configuration
-API_TOKEN = "jSUS2ZMHsdRF7seneARayXzrs2H5pqwdeU4qwSxDq="
+API_TOKEN = "PKwAQ5kJ/Kj4sxvHtMxQinYitHkT8UPPEpiN7XZ455E="
 OVERALL_API_ENDPOINT = "https://apidata.globaldata.com/GlobalDataSocialMedia/api/Content/GetOverallData"
 TIMELINE_API_ENDPOINT = "https://apidata.globaldata.com/GlobalDataSocialMedia/api/Content/GetTimelineData"
 TOP_CONCEPTS_API_ENDPOINT = "https://apidata.globaldata.com/GlobalDataSocialMedia/api/Content/GetTopConcepts"
